@@ -21,11 +21,39 @@ Git branches are effectively a pointer to a snapshot of your changes. When you w
 
 ## How to create a merge conflict 
 
+You need to be familiar with merge conflict if you plan on resolving them.
+
+```
+
+                $ mkdir git-merge-test
+                $ cd git-merge-test
+                $ git init .
+                $ echo "this is some content to mess with" > merge.txt
+                $ git add merge.txt
+                $ git commit -am"we are commiting the inital content"
+                [master (root-commit) d48e74c] we are commiting the inital content
+                 1 file changed, 1 insertion(+)
+                 create mode 100644 merge.txt
+
+```
+
 •Create a new directory named git-merge-test, change to that directory, and initialize it as a new Git repo.
 
 •Create a new text file merge.txt with some content in it.  
 
 •Add merge.txt to the repo and commit it.
+    
+    * Now we have a new repo with one branch master and a file merge.txt with content in it. Next, we will create a new branch to use as the conflicting merge.
+
+```
+
+            $ git checkout -b new_branch_to_merge_later
+            $ echo "totally different content to merge later" > merge.txt
+            $ git commit -am"edited the content of merge.txt to cause a conflict"
+            [new_branch_to_merge_later 6282319] edited the content of merge.txt to cause a conflict
+             1 file changed, 1 insertion(+), 1 deletion(-)
+             
+```
 
 •Now we have a new repo with one branch master and a file merge.txt with content in it.
 
