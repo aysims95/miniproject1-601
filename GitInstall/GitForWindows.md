@@ -27,4 +27,4 @@ https://git-scm.com/downloads - link!
 11.)	It is recommended that you leave the default selection. This relates to the way data is formatted and changing this option may cause problems. Click Next.
 
 12.)	Choose the terminal emulator you want to use. The default MinTTY is recommended, for its features. Click Next.
-
+![](/DesktoGiG/Git.png)
