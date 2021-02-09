@@ -7,5 +7,5 @@
 	2.)Configure your Git username and email using the following commands:
 	git config --global user.name "Your name" $ git config --global user.email "Your email"
 
-http://github.com - automatic!
-[GitHub](http://github.com)
+https://www.atlassian.com/git/tutorials/install-git - automatic!
+[Atlassian](http://atlassian.com)
