@@ -30,11 +30,11 @@ Shared automated tests can be used by developers to catch problems quickly befor
 
 **There are several different types of software tests that can be automated.**
 
-+[Unit Testing](https://smartbear.com/learn/automated-testing/what-is-unit-testing/)
-+[Functional Testing](https://www.simform.com/functional-testing/)
-+[Regression Testing](https://smartbear.com/learn/automated-testing/what-is-regression-testing/)
-+[Black Box Testing](https://www.imperva.com/learn/application-security/black-box-testing)
-+[Integration Testing](https://www.softwaretestinghelp.com/what-is-integration-testing/)
-+[Keyword Testing](https://www.tutorialspoint.com/software_testing_dictionary/keyword_driven_testing.htm)
-+[Data Driven Testing](https://smartbear.com/learn/automated-testing/introduction-to-data-driven-testing/)
-+[Smoke Testing](https://softwaretestingfundamentals.com/smoke-testing/)
+* [Unit Testing](https://smartbear.com/learn/automated-testing/what-is-unit-testing/)
+* [Functional Testing](https://www.simform.com/functional-testing/)
+* [Regression Testing](https://smartbear.com/learn/automated-testing/what-is-regression-testing/)
+* [Black Box Testing](https://www.imperva.com/learn/application-security/black-box-testing)
+* [Integration Testing](https://www.softwaretestinghelp.com/what-is-integration-testing/)
+* [Keyword Testing](https://www.tutorialspoint.com/software_testing_dictionary/keyword_driven_testing.htm)
+* [Data Driven Testing](https://smartbear.com/learn/automated-testing/introduction-to-data-driven-testing/)
+* [Smoke Testing](https://softwaretestingfundamentals.com/smoke-testing/)
