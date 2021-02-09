@@ -1,6 +1,6 @@
 ## Install Git for Windows
 
-# #Installing Git on Windows
+
 
 1.)	Download Git for Windows:
 https://git-scm.com/downloads - link!
