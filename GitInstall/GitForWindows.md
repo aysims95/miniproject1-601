@@ -1,3 +1,18 @@
+## Install Git For Mac
+
+* Check to see if Git is Installed
+
+![Git Logo](git-version.png)
+ 
+* If so then you can skip this step if not then follow along:
+
+	1.) Open Terminal and enter git --version it will install when prompt 
+	
+	2.)Configure your Git username and email using the following commands:
+	
+	git config --global user.name "Your name" $ git config --global user.email "Your email"
+
+
 ## Install Git for Windows
 
 
@@ -79,3 +94,38 @@
 14.) Click Finish, and your done
 
 ![Git Logo](finish.png)
+
+
+
+
+                         * TWO COMMON COLLABORATIVE WORK FLOWS
+                         * SHARED REPOSITORY MODEL
+```
+              * For small projects where you are basically in the same physical space
+              * You are cloning the main repository.
+              * Everyone has push and pull access to the central repo, so be careful and:
+              * Never commit to the master directly.
+              *Always do your work on a different branch from master.
+              
+              -BASIC SHARED REPOSITORY WORKFLOW
+
+              * update your local repo with git pull origin master,
+              * create a working branch with git checkout -b MyNewBranch
+              * make your changes on your branch and stage them with git add,
+              * commit your changes locally with git commit -m "description of your commit", and
+              * upload the changes (including your new branch) to GitHub with git push origin MyNewBranch
+              * Go to the main repo on GitHub where you should now see your new branch
+              * click on your branch name
+              * click on “Pull Request” button (URC)
+              * click on “Send Pull Request”
+
+```
+
+FORK AND PULL MODEL
+
+- This is the model used by U of T Coders on its own website and repos.
+- The “owner”/”Project Leader” of the upstream repo assigns rights to “Collaborators”
+- Collaborators do not have push access to main (upstream) repo
+- Project Lead accepts Pull Requests (PRs) fro collaborators, reviews them, then merges them into main repo.
+
+[Atlassian](https://www.atlassian.com/git/tutorials/install-git)
