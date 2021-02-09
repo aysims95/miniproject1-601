@@ -1,3 +1,4 @@
+
 # MiniProject 1: Git Collaboration
 ## Team Members
 1. [Yash Barad](https://github.com/Yash0601)
@@ -38,4 +39,24 @@
 * [Adding a collaborator to a Github Repository](./Collaborator/Collaborator.md)
 
 
+
 ![](/Images/GitCollab.jpg)
+=======
+Useful resources:
+* https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
+* https://tharis63.medium.com/git-fork-vs-git-clone-8aad0c0e38c0
+* https://medium.com/@jonathanmines/the-ultimate-github-collaboration-guide-df816e98fb67
+* https://www.atlassian.com/git/tutorials/install-git
+* https://git-scm.com/docs/git-request-pull
+* https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
+* https://www.atlassian.com/git/tutorials
+* https://guides.github.com/introduction/git-handbook/
+* https://guides.github.com/features/mastering-markdown/
+* https://guide.quickscrum.com/git-guide/
+* https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/ci/
+* https://medium.com/@dgifani/git-essential-for-productivity-fafefffb9e58
+* https://smartbear.com/solutions/automated-testing/
+* https://nevercode.io/blog/what-is-continuous-integration-and-how-to-benefit-from-it/
+* https://www.infoworld.com/article/3310941/why-you-should-use-docker-and-containers.html
+
+
