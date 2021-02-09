@@ -1,22 +1,11 @@
 
 # MiniProject 1: Git Collaboration
 ## Team Members
-
-# Mini Project 1: IS601_GitCollaboration
-
-## Contributors:
-
-
 1. [Yash Barad](https://github.com/Yash0601)
 2. [Sima Kalam](https://github.com/simak95)
 3. [Shahrukh Khan](https://github.com/sk753)
 
-
 ## Tasks
-
-## Assigned Task:
-
-
 ### 1. Yash Barad
 * Explaining how the usage of some [Developer Tools](./Developer-Tools.md) like Git, Docker, Automated testing, and Continuous Integration can improve the productivity and competitiveness of a company
 * [Git-Usage](./Git-Usage.md)
@@ -28,7 +17,6 @@
 ### 2. Sima Kalam
 * Explanation of [gitFlow](./GitFlow/GitFlow.md)
 * Git commands and terminology:
-
  - [Repository](./Git_Glossary/Repository.md)
  - [Clone](./Git_Glossary/Clone.md)
  - [Fork](./Git_Glossary/Fork.md)
@@ -51,6 +39,9 @@
 * [Adding a collaborator to a Github Repository](./Collaborator/Collaborator.md)
 
 
+
+![](/Images/GitCollab.jpg)
+=======
 Useful resources:
 * https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
 * https://tharis63.medium.com/git-fork-vs-git-clone-8aad0c0e38c0
@@ -67,4 +58,5 @@ Useful resources:
 * https://smartbear.com/solutions/automated-testing/
 * https://nevercode.io/blog/what-is-continuous-integration-and-how-to-benefit-from-it/
 * https://www.infoworld.com/article/3310941/why-you-should-use-docker-and-containers.html
+
 
