@@ -32,7 +32,7 @@
 ### 3. Shahrukh Khan
 * [Forking vs Cloning](./Forking/forking.md)
 * [Pull Request](./Pull/Pull.md)
-* [Adding a collaborator to a Github Repository# miniproject1-601](./Collaborator/Collaborator.md)
+* [Adding a collaborator to a Github Repository](./Collaborator/Collaborator.md)
 
 
 ![](/Images/GitCollab.jpg)
