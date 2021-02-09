@@ -27,5 +27,7 @@
 
 •It is a better option to fork before clone if the user is not declared as a contributor and it is a third party repository
 
+![Markdown Logo](Difference-between-Git-Clone-and-Git-Fork.png)
+
 ## Site
 https://www.toolsqa.com/git/difference-between-git-clone-and-git-fork/
