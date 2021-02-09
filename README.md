@@ -1,13 +1,10 @@
-# Mini Project 1: IS601_GitCollaboration
-
-## Contributors:
-
+# MiniProject 1: Git Collaboration
+## Team Members
 1. [Yash Barad](https://github.com/Yash0601)
 2. [Sima Kalam](https://github.com/simak95)
 3. [Shahrukh Khan](https://github.com/sk753)
 
-## Assigned Task:
-
+## Tasks
 ### 1. Yash Barad
 * Explaining how the usage of some [Developer Tools](./Developer-Tools.md) like Git, Docker, Automated testing, and Continuous Integration can improve the productivity and competitiveness of a company
 * [Git-Usage](./Git-Usage.md)
@@ -19,33 +16,28 @@
 ### 2. Sima Kalam
 * Explanation of [gitFlow](./GitFlow/GitFlow.md)
 * Git commands and terminology:
- - [Repository](./Git_commands_and_terminology/Repository.md)
- - [Clone](./Git_commands_and_terminology/Clone.md)
- - [Fork](./Git_commands_and_terminology/Fork.md)
- - [Branch](./Git_commands_and_terminology/Branch.md)
- - [Commit](./Git_commands_and_terminology/Commit.md)
- - [Merge](./Git_commands_and_terminology/Merge.md)
- - [Checkout](./Git_commands_and_terminology/Checkout.md)
- - [Push](./Git_commands_and_terminology/Push.md)
- - [Pull](./Git_commands_and_terminology/Pull.md)
- - [Remote Add / Remove / Show](./Git_commands_and_terminology/Remote.md)
- - [Status](./Git_commands_and_terminology/Status.md)
- - [Master branch](./Git_commands_and_terminology/Master_branch.md)
+ - [Repository](./Git_Glossary/Repository.md)
+ - [Clone](./Git_Glossary/Clone.md)
+ - [Fork](./Git_Glossary/Fork.md)
+ - [Branch](./Git_Glossary/Branch.md)
+ - [Commit](./Git_Glossary/Commit.md)
+ - [Merge](./Git_Glossary/Merge.md)
+ - [Checkout](./Git_Glossary/Checkout.md)
+ - [Push](./Git_Glossary/Push.md)
+ - [Pull](./Git_Glossary/Pull.md)
+ - [Remote Add / Remove / Show](./Git_Glossary/Remote.md)
+ - [Status](./Git_Glossary/Status.md)
+ - [Master branch](./Git_Glossary/Master_Branch.md)
 
 ### 3. Shahrukh Khan
-* Forking vs Cloning
-* Pull Request
-* Adding a collaborator to a Github Repository# miniproject1-601
 
-Useful resources:
-* https://www.atlassian.com/git/tutorials
-* https://guides.github.com/introduction/git-handbook/
-* https://guides.github.com/features/mastering-markdown/
-* https://guide.quickscrum.com/git-guide/
-* https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/ci/
-* https://medium.com/@dgifani/git-essential-for-productivity-fafefffb9e58
-* https://smartbear.com/solutions/automated-testing/
-* https://nevercode.io/blog/what-is-continuous-integration-and-how-to-benefit-from-it/
-* https://www.infoworld.com/article/3310941/why-you-should-use-docker-and-containers.html
+* A step by step tutorial that explains how to set up [Git](/GitInstall/GitForWindows.md) and work collaboratively with more than one person
+* Explain the concept of [Branching](/Branching/Branching.md) and how to to use branches to avoid merge conflicts, your tutorial must illustrate how to create a merge conflict and resolve the merge conflict. 
+* [Forking vs Cloning](./Forking/forking.md)
+* [Pull Request](./Pull/Pull.md)
+* [Adding a collaborator to a Github Repository](./Collaborator/Collaborator.md)
+
+
+![](/Images/GitCollab.jpg)
 
 
