@@ -1,7 +1,9 @@
 ## Install Git For Mac
 
 * Check to see if Git is Installed
- - git --version
+ 
+ ![Markdown Logo](git --version.png)
+ 
 * If so then you can skip this step if not then follow along:
 
 	1.) Open Terminal and enter git --version it will install when prompt 
@@ -10,5 +12,5 @@
 	
 	git config --global user.name "Your name" $ git config --global user.email "Your email"
 
-https://www.atlassian.com/git/tutorials/install-git - automatic!
-[Atlassian](http://atlassian.com)
+![Atlassian](https://www.atlassian.com/git/tutorials/install-git)
+
