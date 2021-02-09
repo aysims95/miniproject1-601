@@ -76,6 +76,6 @@
 
 13.) Just click next because those are optional choices
 
-14.) Click Finish
+14.) Click Finish, and your done
 
 ![Git Logo](finish.png)
