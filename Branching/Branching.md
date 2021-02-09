@@ -1,6 +1,9 @@
 ## Branching 
 
+![Branch_Logo](git_branch.png)
+
 Git branches are effectively a pointer to a snapshot of your changes. When you want to add a new feature or fix a bug—no matter how big or how small—you spawn a new branch to encapsulate your changes. This makes it harder for unstable code to get merged into the main code base, and it gives you the chance to clean up your future's history before merging it into the main branch
+
 *Branches are just pointers to commits, when you create a branch, all Git needs to do is create a new pointer, it doesn’t change the repository in any other way
 
 ## Avoid merge conflict 
