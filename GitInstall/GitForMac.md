@@ -12,5 +12,5 @@
 	
 	git config --global user.name "Your name" $ git config --global user.email "Your email"
 
-![Atlassian](https://www.atlassian.com/git/tutorials/install-git)
+[Atlassian](https://www.atlassian.com/git/tutorials/install-git)
 
