@@ -4,7 +4,7 @@
 
 •	On Github, navigate to the main page of the repository
 
-![Markdown Logo](manage.png)
+![Markdown Logo](Manage.png)
 
 •	Under your repository name, click Settings
 
@@ -24,7 +24,7 @@
 
 •	Click Add NAME to REPOSITORY.
 
-![Markdown Logo](add.png)
+![Markdown Logo](Add.png)
 
 •	The user will receive an email inviting them to the repository. Once they accept your invitation, they will have collaborator access to your repository.
 
