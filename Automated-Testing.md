@@ -6,7 +6,7 @@ An automated testing tool is able to playback pre-recorded and predefined action
 
 Automated software testing has long been considered critical for big software development organizations but is often thought to be too expensive or difficult for smaller companies to implement.
 
-**Advantages of Automated Testing**
+## **Advantages of Automated Testing**
 
 **1. Saves Time and Money**
 
