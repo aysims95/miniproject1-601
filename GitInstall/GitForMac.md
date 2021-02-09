@@ -2,7 +2,7 @@
 
 * Check to see if Git is Installed
 
-![Markdown Logo](git --version.png)
+![Git Logo](git-version.png)
  
 * If so then you can skip this step if not then follow along:
 
