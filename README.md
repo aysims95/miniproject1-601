@@ -31,7 +31,7 @@
 
 ### 3. Shahrukh Khan
 
-* A step by step tutorial that explains how to set up [Git](/GitInstall/GitForWindows.md and work collaboratively with more than one person
+* A step by step tutorial that explains how to set up [Git](/GitInstall/GitForWindows.md) and work collaboratively with more than one person
 * Explain the concept of [Branching](/Branching/Branching.md) and how to to use branches to avoid merge conflicts, your tutorial must illustrate how to create a merge conflict and resolve the merge conflict. 
 * [Forking vs Cloning](./Forking/forking.md)
 * [Pull Request](./Pull/Pull.md)
