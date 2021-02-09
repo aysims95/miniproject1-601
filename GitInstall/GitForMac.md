@@ -1,4 +1,4 @@
-##Install Git For Mac
+## Install Git For Mac
 
 * Check to see if Git is Installed
  - git --version
