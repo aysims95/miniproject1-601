@@ -4,4 +4,4 @@
 2. Yash Barad
 3. Shahrukh Khan
 
-![](/Images/GitCollab.jpeg)
+![](/Images/GitCollab.jpg)
