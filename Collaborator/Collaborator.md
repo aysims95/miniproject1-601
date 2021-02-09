@@ -16,7 +16,7 @@
 
 •	Click Invite a collaborator
 
-![Markdown Logo](invite.png)
+![Markdown Logo](Invite.png)
 
 •	In the search field, start typing the name of person you want to invite, then click a name in the list of matches.
 
