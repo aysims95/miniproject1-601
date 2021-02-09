@@ -63,11 +63,30 @@ You need to be familiar with merge conflict if you plan on resolving them.
 
 •commit the new content
 
-•With this new branch: new_branch_to_merge_later we have created a commit that overrides the content of merge.txt
+          * With this new branch: new_branch_to_merge_later we have created a commit that overrides the content of merge.txt
+```
+
+              git checkout master
+              Switched to branch 'master'
+              echo "content to append" >> merge.txt
+              git commit -am"appended content to merge.txt"
+              [master 24fbe3c] appended content to merge.tx
+              1 file changed, 1 insertion(+)
+              
+ ```
 
 •This chain of commands checks out the master branch, appends content to merge.txt, and commits it. 
 
-•This now puts our example repo in a state where we have 2 new commits. 
+        * This now puts our example repo in a state where we have 2 new commits. 
+        
+```
+
+              $ git merge new_branch_to_merge_later
+              Auto-merging merge.txt
+              CONFLICT (content): Merge conflict in merge.txt
+              Automatic merge failed; fix conflicts and then commit the result.
+              
+```
 
 
 ## Resolve a merge conflict
