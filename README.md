@@ -30,6 +30,7 @@
  - [Master branch](./Git_Glossary/Master_Branch.md)
 
 ### 3. Shahrukh Khan
+* Explain the concept of [Branching](/Branching/Branching.md) and how to to use branches to avoid merge conflicts, your tutorial must illustrate how to create a merge conflict and resolve the merge conflict. 
 * [Forking vs Cloning](./Forking/forking.md)
 * [Pull Request](./Pull/Pull.md)
 * [Adding a collaborator to a Github Repository](./Collaborator/Collaborator.md)
