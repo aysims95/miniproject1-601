@@ -51,35 +51,13 @@
 * [Adding a collaborator to a Github Repository](./Collaborator/Collaborator.md)
 
 
-![](/Images/GitCollab.jpg)
-
-Resources:
+Useful resources:
 * https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
 * https://tharis63.medium.com/git-fork-vs-git-clone-8aad0c0e38c0
 * https://medium.com/@jonathanmines/the-ultimate-github-collaboration-guide-df816e98fb67
 * https://www.atlassian.com/git/tutorials/install-git
 * https://git-scm.com/docs/git-request-pull
 * https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
-
- - [Repository](./Git_commands_and_terminology/Repository.md)
- - [Clone](./Git_commands_and_terminology/Clone.md)
- - [Fork](./Git_commands_and_terminology/Fork.md)
- - [Branch](./Git_commands_and_terminology/Branch.md)
- - [Commit](./Git_commands_and_terminology/Commit.md)
- - [Merge](./Git_commands_and_terminology/Merge.md)
- - [Checkout](./Git_commands_and_terminology/Checkout.md)
- - [Push](./Git_commands_and_terminology/Push.md)
- - [Pull](./Git_commands_and_terminology/Pull.md)
- - [Remote Add / Remove / Show](./Git_commands_and_terminology/Remote.md)
- - [Status](./Git_commands_and_terminology/Status.md)
- - [Master branch](./Git_commands_and_terminology/Master_branch.md)
-
-### 3. Shahrukh Khan
-* Forking vs Cloning
-* Pull Request
-* Adding a collaborator to a Github Repository# miniproject1-601
-
-Useful resources:
 * https://www.atlassian.com/git/tutorials
 * https://guides.github.com/introduction/git-handbook/
 * https://guides.github.com/features/mastering-markdown/
