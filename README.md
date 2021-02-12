@@ -40,9 +40,7 @@
 
 
 ![](/Images/GitCollab.jpg)
-
 =======
-
 Useful resources:
 * https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
 * https://tharis63.medium.com/git-fork-vs-git-clone-8aad0c0e38c0
