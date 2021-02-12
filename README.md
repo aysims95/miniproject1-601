@@ -7,11 +7,11 @@
 
 ## Tasks
 ### 1. Yash Barad
-* Explaining how the usage of some [Developer Tools](./Developer-Tools.md) like Git, Docker, Automated testing, and Continuous Integration can improve the productivity and competitiveness of a company
-* [Git-Usage](./Git-Usage.md)
-* [Importance of Docker](./Importance-of-Docker.md)
+* Explaining how the usage of some Developer Tools like **Git**, **Docker**, **Automated Testing**, and **Continuous Integration** can improve the productivity and competitiveness of a company
+* [Git Usage](./GitUsage.md)
+* [Importance of Docker](./Docker.md)
 * [Automated Testing](./Automated-Testing.md)
-* [Continuous-Integration](./Continuous-Integration.md)
+* [Continuous Integration](./Continuous-Integration.md)
 
 
 ### 2. Sima Kalam
@@ -39,9 +39,10 @@
 * [Adding a collaborator to a Github Repository](./Collaborator/Collaborator.md)
 
 
-
 ![](/Images/GitCollab.jpg)
+
 =======
+
 Useful resources:
 * https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
 * https://tharis63.medium.com/git-fork-vs-git-clone-8aad0c0e38c0
